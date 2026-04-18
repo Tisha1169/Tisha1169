@@ -66,9 +66,9 @@ Git • GitHub • Postman • Figma • Vercel
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-link  
-🌐 Portfolio: your-portfolio-link
+📧 Email: tishadubey11@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/tisha-dubey/
+
 
 ---
 
