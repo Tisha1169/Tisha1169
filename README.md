@@ -55,22 +55,6 @@ Git • GitHub • Postman • Figma • Vercel
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tisha1169&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tisha1169&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha1169&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Cloud Architecture
